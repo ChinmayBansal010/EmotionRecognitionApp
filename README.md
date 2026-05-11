@@ -69,7 +69,7 @@ Follow these instructions to get the mobile application up and running on your l
 3.  **Configure the API Endpoint:**
     In `lib/services/api_service.dart`, ensure the `API_URL` points to your deployed backend server.
     ```dart
-    const String API_URL = '[https://your-render-app-name.onrender.com/predict](https://your-render-app-name.onrender.com/predict)';
+    const String API_URL = 'https://your-render-app-name.onrender.com/predict';
     ```
 
 ### Running the Application
